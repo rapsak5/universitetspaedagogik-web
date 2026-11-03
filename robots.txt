@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--universitetspdagogik-u0b.dk/sitemap.xml
