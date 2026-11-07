@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#13243c"/>
+<rect x="0" y="0" width="14" height="630" fill="#d9a400"/>
+<rect x="80" y="80" width="84" height="84" rx="18" fill="#1d3557"/>
+<text x="122" y="140" font-family="DejaVu Serif" font-weight="bold" font-size="52" text-anchor="middle" fill="#d9a400">U</text>
+<text x="190" y="135" font-family="Inter" font-weight="600" font-size="30" fill="#c9cfd8">universitetspædagogik.dk</text>
+<text x="80" y="300" font-family="Inter" font-weight="800" font-size="76" fill="#f3f1ea" letter-spacing="-2">Universitetspædagogik</text>
+<text x="80" y="395" font-family="Inter" font-weight="800" font-size="76" fill="#d9a400" letter-spacing="-2">og AI</text>
+<text x="80" y="480" font-family="Inter" font-weight="400" font-size="34" fill="#d6d9de">Undervisning, feedback, eksamen og ærlige forbehold</text>
+<text x="80" y="560" font-family="Inter" font-weight="600" font-size="24" fill="#8f9bb0">Af Kasper Bergstrøm · ai-workshop.dk</text>
+</svg>

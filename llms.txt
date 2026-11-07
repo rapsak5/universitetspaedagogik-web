@@ -1,0 +1,40 @@
+# universitetspædagogik.dk
+
+> Universitetspædagogik og generativ AI: alignment, aktiv læring, feedback, tre greb til næste semester, eksamen, AI-detektorer og ærlige forbehold.
+
+Et uafhængigt videnssite på dansk, skrevet af Kasper Bergstrøm fra ai-workshop.dk. Siden er ikke tilknyttet de nævnte forfattere, forlag eller institutioner. Senest opdateret 2026-11-07.
+
+## Kort fortalt
+- AI rokker ved opgaveformerne, ikke ved de pædagogiske principper. Alignment, aktiv læring og feedback er stadig kompasset.
+- Det nyttige spørgsmål er ikke, om AI kan løse opgaven, men hvad den studerende selv skal tænke for at lære det.
+- Gør processen synlig med milepæle, feedback undervejs og en kort AI-erklæring ved hver aflevering.
+- AI-detektorer er upålidelige og bør aldrig være eneste grundlag for en sag om eksamenssnyd.
+
+## Indhold
+- [Hvad er universitetspædagogik](https://xn--universitetspdagogik-u0b.dk/#grundtanker): Alignment, aktiv læring, feedback og forskningsnærhed.
+- [AI i universitetsundervisningen](https://xn--universitetspdagogik-u0b.dk/#ai): Hvor AI kan styrke læringen, og hvor det kan underminere den.
+- [Tre greb til næste semester](https://xn--universitetspdagogik-u0b.dk/#ovelser): AI-erklæring, kritisk læsning af AI og synlig proces.
+- [Eksamen og faglig integritet](https://xn--universitetspdagogik-u0b.dk/#eksamen): Klarhed, alignment og mundtlighed som anker. AI-detektorer er upålidelige.
+- [Forbehold](https://xn--universitetspdagogik-u0b.dk/#forbehold): Seks forbehold om institutionens regler, GDPR, ophavsret, hallucinationer, faglig udhuling og tynd evidens.
+- [Spørgsmål og svar](https://xn--universitetspdagogik-u0b.dk/#faq): Korte svar på de mest almindelige spørgsmål om AI i universitetsundervisningen.
+- [Læs videre](https://xn--universitetspdagogik-u0b.dk/#laes-videre): Kilder: DUN, tidsskriftet DUT og grundbogen Universitetspædagogik (Samfundslitteratur).
+
+## Spørgsmål og svar
+### Hvad er universitetspædagogik?
+Universitetspædagogik er feltet om undervisning og læring på universiteter. Det dækker planlægning af undervisning, design af uddannelser, vejledning, feedback, eksamen og underviserens egen udvikling.
+
+### Hvad er constructive alignment?
+Princippet om, at læringsmål, undervisningsaktiviteter og eksamen skal pege i samme retning. Begrebet stammer fra John Biggs. Med AI bliver det vigtigere, fordi en prøve let kommer til at teste noget andet end det, kurset vil lære de studerende.
+
+### Må studerende bruge AI til eksamen?
+Det afgøres lokalt af universitetet, studieordningen og det enkelte kursus. Nogle steder er AI forbudt, andre steder tilladt med krav om deklaration. Tjek altid de gældende regler på din egen institution.
+
+### Virker AI-detektorer?
+Ikke godt nok til at bære en anklage. De giver både falske positiver og falske negativer. Brug dem aldrig som eneste grundlag for en sag om eksamenssnyd. En samtale om den studerendes eget produkt er et bedre tjek.
+
+### Hvordan kommer jeg i gang med AI i mit kursus?
+Start småt. Bed om en kort AI-erklæring ved afleveringer, lav en øvelse hvor de studerende vurderer et AI-svar med kursets egne kriterier, og del store opgaver op i milepæle med feedback undervejs.
+
+## Om afsenderen
+- [ai-workshop.dk](https://ai-workshop.dk/): Praktiske workshops om generativ AI for undervisere og vidensarbejdere, holdt af Kasper Bergstrøm.
+- [Søsterside](https://xn--gymnasiepdagogik-2ob.dk/): Samme tilgang til en anden del af uddannelsessystemet.
