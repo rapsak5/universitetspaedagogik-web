@@ -1,11 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-<rect width="1200" height="630" fill="#13243c"/>
-<rect x="0" y="0" width="14" height="630" fill="#d9a400"/>
-<rect x="80" y="80" width="84" height="84" rx="18" fill="#1d3557"/>
-<text x="122" y="140" font-family="DejaVu Serif" font-weight="bold" font-size="52" text-anchor="middle" fill="#d9a400">U</text>
-<text x="190" y="135" font-family="Inter" font-weight="600" font-size="30" fill="#c9cfd8">universitetspædagogik.dk</text>
-<text x="80" y="300" font-family="Inter" font-weight="800" font-size="76" fill="#f3f1ea" letter-spacing="-2">Universitetspædagogik</text>
-<text x="80" y="395" font-family="Inter" font-weight="800" font-size="76" fill="#d9a400" letter-spacing="-2">og AI</text>
-<text x="80" y="480" font-family="Inter" font-weight="400" font-size="34" fill="#d6d9de">Undervisning, feedback, eksamen og ærlige forbehold</text>
-<text x="80" y="560" font-family="Inter" font-weight="600" font-size="24" fill="#8f9bb0">Af Kasper Bergstrøm · ai-workshop.dk</text>
+<defs><radialGradient id="g" cx="85%" cy="0%" r="90%"><stop offset="0" stop-color="#13203a"/><stop offset=".6" stop-color="#0a1221"/></radialGradient></defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<g transform="translate(120 -40)"><g stroke="#63d6bf" stroke-opacity=".35" stroke-width="1.5"><line x1="820" y1="120" x2="960" y2="200"/><line x1="960" y1="200" x2="1080" y2="140"/><line x1="960" y1="200" x2="920" y2="360"/><line x1="920" y1="360" x2="1060" y2="420"/><line x1="1080" y1="140" x2="1060" y2="420"/><line x1="820" y1="120" x2="760" y2="300"/><line x1="760" y1="300" x2="920" y2="360"/></g>
+<g fill="#aae6d7"><circle cx="820" cy="120" r="5"/><circle cx="960" cy="200" r="7"/><circle cx="1080" cy="140" r="4"/><circle cx="920" cy="360" r="5"/><circle cx="1060" cy="420" r="6"/><circle cx="760" cy="300" r="4"/></g></g>
+<circle cx="122" cy="122" r="40" fill="none" stroke="#e9edf4" stroke-width="2.5"/>
+<text x="122" y="138" font-family="Georgia,serif" font-style="italic" font-size="46" text-anchor="middle" fill="#e9edf4">u</text>
+<text x="185" y="133" font-family="Georgia,serif" font-size="30" fill="#b9c2d3">universitetspædagogik.dk</text>
+<text x="80" y="300" font-family="Georgia,serif" font-size="82" fill="#e9edf4" letter-spacing="-1.5">Universitetspædagogik</text>
+<text x="80" y="395" font-family="Georgia,serif" font-style="italic" font-size="82" fill="#63d6bf" letter-spacing="-1.5">og AI</text>
+<text x="80" y="480" font-family="Arial,sans-serif" font-size="32" fill="#b9c2d3">Alignment, feedback, eksamen og ærlige forbehold</text>
+<text x="80" y="560" font-family="Courier New,monospace" font-size="24" fill="#8592a8">Af Kasper Bergstrøm · ai-workshop.dk</text>
 </svg>
