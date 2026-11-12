@@ -533,6 +533,21 @@
     <p>Kasper Bergstrøm fra ai-workshop.dk har en baggrund i universitetspædagogik, læringsteknologi og organisatorisk læring og har arbejdet med undervisning på Københavns Universitet siden 2020. Han holder praktiske workshops, hvor undervisere arbejder med AI i deres egne kurser: opgavedesign, feedback, eksamen og ansvarlig brug.</p>
     <p>Der er mest øvelse og mindst muligt teori. Målet er, at man går derfra med noget, man kan bruge i næste uges undervisning.</p>
     <a class="btn" href="https://ai-workshop.dk">Se ai-workshop.dk <svg class="arr" aria-hidden="true"><use href="#i-arrow"/></svg></a>
+    <form class="kf" id="kontaktformular" action="https://formsubmit.co/kasper@ai-workshop.dk" method="POST">
+      <input type="hidden" name="_subject" value="Ny besked fra universitetspædagogik.dk">
+      <input type="hidden" name="_next" value="https://xn--universitetspdagogik-u0b.dk/?tak=1#kontaktformular">
+      <input type="hidden" name="_template" value="table">
+      <input type="text" name="_honey" class="kf-honning" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <h3>Skriv til Kasper</h3><p class="kf-intro" style="margin:0">Fortæl kort om jeres institut eller uddannelse og hvad I gerne vil arbejde med, så vender jeg tilbage.</p>
+      <div class="kf-to">
+        <label for="kf-navn">Navn<input id="kf-navn" name="navn" required autocomplete="name"></label>
+        <label for="kf-mail">E-mail<input id="kf-mail" name="email" type="email" required autocomplete="email"></label>
+      </div>
+      <label for="kf-org">Institut eller uddannelse (valgfrit)<input id="kf-org" name="organisation" autocomplete="organization"></label>
+      <label for="kf-besked">Besked<textarea id="kf-besked" name="besked" rows="5" required></textarea></label>
+      <div class="kf-raekke"><button class="btn" type="submit">Send besked</button><p class="kf-note">Beskeden går til Kasper gennem tjenesten FormSubmit og bruges kun til at svare dig.</p></div>
+      <p class="kf-tak" id="kf-tak" role="status" hidden>Tak for din besked. Kasper vender tilbage hurtigst muligt.</p>
+    </form>
   </div>
   </div>
 </section>
@@ -548,5 +563,8 @@
 
 <button class="totop" type="button" aria-label="Til toppen"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
 
+<script>
+if (/[?&]tak=1/.test(location.search)) { var t = document.getElementById('kf-tak'); if (t) t.hidden = false; }
+</script>
 </body>
 </html>
